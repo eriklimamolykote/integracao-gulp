@@ -1,3 +1,5 @@
+// Original author: Leonardo Moura Leitão (with adaptations)
+// Contact: https://www.udemy.com/user/leonardomouraleitao/ 
 import Vendavel from './vendavel'
 
 export default class Livro implements Vendavel {

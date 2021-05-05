@@ -1,3 +1,5 @@
+// Original author: Leonardo Moura Leitão (with adaptations)
+// Contact: https://www.udemy.com/user/leonardomouraleitao/ 
 const { series, parallel, src, dest } = require('gulp')
 const del = require('del')
 const browserify = require('browserify')
